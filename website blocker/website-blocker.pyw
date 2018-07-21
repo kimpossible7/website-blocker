@@ -1,5 +1,3 @@
-#download it and update website list as of ur choice and also timiing n thn add this to your 
-#task schedulare to run it immediately on the start of the system save it with extension pyw
 
 import time
 from datetime import datetime as dt
